@@ -1,4 +1,4 @@
-# UAV-Path-Planning-based-on-Road-Extraction
+# Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data
 This is the code implementation of the paper titled "Comparison of Path
 Planning Algorithms for Autonomous Vehicle Navigation Using Satellite
 and Airborne LiDAR Data"
